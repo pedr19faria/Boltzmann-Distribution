@@ -1,6 +1,6 @@
 # Boltzmann-Distribution
-###Introduction
-This projetct seeks to simulate the collision of molecules in a closed compartiment, in order to verify that it does get close to the Boltzmann Distribution. \\
+### Introduction
+This projetct seeks to simulate the collision of molecules in a closed compartiment, in order to verify that it does get close to the Boltzmann Distribution. \
 First of all, it's important to understand that this problem involves some important topics in thermodynamics and statistical physics that should be well understood, so to comprehend the simulation. Fist of all, we will consider that there is a homogenous gas that is inside the closed compartiment, which follows the following hypothesis from the kinetic theory of gases: \
 **1.** Gas is made of an extremely large number of particles. \
 **2.** The molecules occupy a small fraction of the total volume filled by the gas. \
