@@ -19,4 +19,10 @@ And since, all molecules have the same mass: \
 ```
  Therefore, once the molecules collide, the velocities will change following these equations. Also, if they hit the walls of the compartiment their speed will be the opposite as it was before. \
  ### The Maxwell-Boltzmann Distribution
-  The Maxwell-Boltzmann Distribution is a Probability distribution that describes the distribution of velocities in a ideal gas in thermal equilibrium, where the particles move inside it freely, following the ideias set out by the kinetic theory of gases, as shown above. The simulation will seek out to approach it as best as possible this distribution. 
+  The Maxwell-Boltzmann Distribution is a Probability distribution that describes the distribution of speeds in a ideal gas in thermal equilibrium, where the particles move inside it freely, following the ideias set out by the kinetic theory of gases, as shown above. The simulation will seek out to approach it as best as possible this distribution. 
+  \
+  In the beginning of the simulation the histogram shows that all the particles start at the same speed as shown in the first image and as time develops by the end the distribution of velocities truly does approach a lot more the Maxwell-Boltzmann Distribution then before:
+  \ 
+  
+  ![image](https://user-images.githubusercontent.com/117380312/226349886-69f4b853-378f-4bc1-8c48-383626ce1d5b.png)
+
