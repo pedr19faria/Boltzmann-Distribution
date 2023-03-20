@@ -11,7 +11,9 @@ Fist of all, we will consider that there is a homogenous gas that is inside the 
 Since every collision is perfectly elastic we can show that when two molecules collide their velocity will change following the rule shown above: \
 $$ \overrightarrow{{v_{new}}} = \overrightarrow{v_1} - \dfrac{2m_1}{m_1 + m_2} \dfrac{<\overrightarrow{v_1} -  \overrightarrow{v_2},\overrightarrow{r_1} -\overrightarrow{r_2}>}{|\overrightarrow{r_1} - \overrightarrow{r_2}|^2}(\overrightarrow{r_1} - \overrightarrow{r_2}) $$ \
 And since, all molecules have the same mass: \
-''' math \overrightarrow{{v_{new}}} = \overrightarrow{v_1} - \dfrac{<\overrightarrow{v_1} -  \overrightarrow{v_2},\overrightarrow{r_1} -\overrightarrow{r_2}>}{|\overrightarrow{r_1} - \overrightarrow{r_2}|^2}(\overrightarrow{r_1} - \overrightarrow{r_2}) '''
+``` math
+\overrightarrow{{v_{new}}} = \overrightarrow{v_1} - \dfrac{<\overrightarrow{v_1} -  \overrightarrow{v_2},\overrightarrow{r_1} -\overrightarrow{r_2}>}{|\overrightarrow{r_1} - \overrightarrow{r_2}|^2}(\overrightarrow{r_1} - \overrightarrow{r_2}) 
+```
  Therefore, once the molecules collide, the velocities will change following these equations. Also, if they hit the walls of the compartiment their speed will be the opposite as it was before. \
  ### The Maxwell-Boltzmann Distribution
   The Maxwell-Boltzmann Distribution is a Probability distribution that describes the distribution of velocities in a ideal gas in thermal equilibrium, where the particles move inside it freely, following the ideias set out by the kinetic theory of gases, as shown above. The simulation will seek out to approach it as best as possible this distribution. 
