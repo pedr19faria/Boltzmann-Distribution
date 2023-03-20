@@ -24,10 +24,11 @@ And since, all molecules have the same mass: \
   In the beginning of the simulation the histogram shows that all the particles start at the same speed as shown in the first image and as time develops by the end the distribution of velocities truly does approach a lot more the Maxwell-Boltzmann Distribution then before:
   \ 
   ![image](https://user-images.githubusercontent.com/117380312/226350610-b76b9d9c-53bf-494c-886f-94e932ffae1b.png)
-
-  \ The animation will show the development of the speeds and how the 
   
-  ![image](https![ani](https://user-images.githubusercontent.com/117380312/226350690-aaed3d7e-c931-4ec7-b861-89b88ff845eb.gif)
+  ![image](https://user-images.githubusercontent.com/117380312/226353222-4576d7ea-d827-4de5-ac1e-c201c7422fe0.png)
 
-://user-images.githubusercontent.com/117380312/226349886-69f4b853-378f-4bc1-8c48-383626ce1d5b.png)
+\
+![ani](https://user-images.githubusercontent.com/117380312/226353341-6239a42d-beae-4b0a-8445-8b0f35c43449.gif)
 
+
+  
