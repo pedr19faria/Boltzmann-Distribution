@@ -25,7 +25,7 @@ And since, all molecules have the same mass: \
   \ 
   ![image](https://user-images.githubusercontent.com/117380312/226350610-b76b9d9c-53bf-494c-886f-94e932ffae1b.png)
   
-  ![image](https://user-images.githubusercontent.com/117380312/226353222-4576d7ea-d827-4de5-ac1e-c201c7422fe0.png)
+  ![image](https://user-images.githubusercontent.com/117380312/226356881-73f5f7e1-a3b8-4da9-b532-9ccb0fddaf3f.png)
 
 \
 ![ani](https://user-images.githubusercontent.com/117380312/226353341-6239a42d-beae-4b0a-8445-8b0f35c43449.gif)
