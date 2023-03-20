@@ -11,7 +11,8 @@ Fist of all, we will consider that there is a homogenous gas that is inside the 
 Since every collision is perfectly elastic we can show that when two molecules collide their velocity will change following the rule shown above: \
 ```math 
 \overrightarrow{{v_{new}}} = \overrightarrow{v_1} - \dfrac{2m_1}{m_1 + m_2} \dfrac{<\overrightarrow{v_1} -  \overrightarrow{v_2},\overrightarrow{r_1} -\overrightarrow{r_2}>}{|\overrightarrow{r_1} - \overrightarrow{r_2}|^2}(\overrightarrow{r_1} - \overrightarrow{r_2})
-```\
+```
+\
 And since, all molecules have the same mass: \
 ``` math
 \overrightarrow{{v_{new}}} = \overrightarrow{v_1} - \dfrac{<\overrightarrow{v_1} -  \overrightarrow{v_2},\overrightarrow{r_1} -\overrightarrow{r_2}>}{|\overrightarrow{r_1} - \overrightarrow{r_2}|^2}(\overrightarrow{r_1} - \overrightarrow{r_2}) 
