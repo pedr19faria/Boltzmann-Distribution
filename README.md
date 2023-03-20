@@ -1,4 +1,4 @@
-# Boltzmann-Distribution
+# Ideal gas simulation and Maxwell-Boltzman Distribution
 ### Introduction
 This projetct seeks to simulate the collision of molecules in a closed compartiment, in order to verify that it does get close to the Boltzmann Distribution. \
 This simulation has some limitations, such as the simplification of some parts of the physics behind the simulation and the quantities of particles, for example, but it was still able to approach what we wanted to show. \
@@ -14,4 +14,4 @@ And since, all molecules have the same mass: \
 $$ \overrightarrow{{v_{new}}} = \overrightarrow{v_1} - \dfrac{<\overrightarrow{v_1} -  \overrightarrow{v_2},\overrightarrow{r_1} -\overrightarrow{r_2}>}{|\overrightarrow{r_1} - \overrightarrow{r_2}|^2}(\overrightarrow{r_1} - \overrightarrow{r_2}) $$
  Therefore, once the molecules collide, the velocities will change following these equations. Also, if they hit the walls of the compartiment their speed will be the opposite as it was before. \
  ### The Maxwell-Boltzmann Distribution
-  The Maxwell-Boltzmann Distribution is a Probability distribution that describes the distribution of velocities in a ideal gas in thermal equilibrium, where the particles move inside it freely, following the ideias set out by the kinetic theory of gases, as shown above. The simulation will seek out to approach as best as possible this distribution. 
+  The Maxwell-Boltzmann Distribution is a Probability distribution that describes the distribution of velocities in a ideal gas in thermal equilibrium, where the particles move inside it freely, following the ideias set out by the kinetic theory of gases, as shown above. The simulation will seek out to approach it as best as possible this distribution. 
