@@ -9,4 +9,4 @@ Fist of all, we will consider that there is a homogenous gas that is inside the 
 **4.** The forces of interaction between these molecules are of short range and only have an effect during the collisions. However, as the duration of the collisions are negligeble when compared to the time between two consecutive collisions. Therefore, inbetween the collisions the molecule moves as a free particle with uniform linear motion. \
 **5.** Every collision is perfectly elastic. 
 Since every collision is perfectly elastic we can show that when two molecules collide their velocity will change following the rule shown above: \
-$$ \vv{v_{new}} = $$
+$$ \overrightarrow{{v_{new}}} = \overrightarrow{v_1} - \dfrac{2m_1}{m_1 + m_2} - \dfrac{<\overrightarrow{v_1} -  \overrightarrow{v_2},\overrightarrow{r_1} -\overrightarrow{r_2}>}{|\overrightarrow{r_1} - \overrightarrow{r_2}|^2}(\overrightarrow{r_1} - \overrightarrow{r_2}) $$
